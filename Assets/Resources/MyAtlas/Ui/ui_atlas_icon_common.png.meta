@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: d8da1cc90d9dc99418c763833c75a55b
+timeCreated: 1481017547
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui_atlas_icon_common_0
+    21300002: ui_atlas_icon_common_1
+    21300004: ui_atlas_icon_common_2
+    21300006: ui_atlas_icon_common_3
+    21300008: ui_atlas_icon_common_4
+    21300010: ui_atlas_icon_common_5
+    21300012: ui_atlas_icon_common_6
+    21300014: ui_atlas_icon_common_7
+    21300016: ui_atlas_icon_common_8
+    21300018: ui_atlas_icon_common_9
+    21300020: ui_atlas_icon_common_10
+    21300022: ui_atlas_icon_common_11
+    21300024: ui_atlas_icon_common_12
+    21300026: ui_atlas_icon_common_13
+    21300028: ui_atlas_icon_common_14
+    21300030: ui_atlas_icon_common_15
+    21300032: ui_atlas_icon_common_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 76, w: 159}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 907
+        width: 223
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 851
+        width: 188
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 741
+        width: 169
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 680
+        width: 166
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 676
+        width: 167
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 576
+        width: 166
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 534
+        width: 166
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 504
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 166
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 361
+        width: 166
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 332
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 166
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 203
+        width: 164
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 212
+        width: 159
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 80
+        width: 164
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 117
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_atlas_icon_common_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 83
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 0, y: 512}
+      - {x: 150.47302, y: 414.2167}
+      - {x: 243.47047, y: 158.21669}
+      - {x: 243.47046, y: -158.21672}
+      - {x: 150.473, y: -414.21674}
+      - {x: -0.00002238023, y: -512}
+      - {x: -150.47305, y: -414.21667}
+      - {x: -243.47046, y: -158.21675}
+      - {x: -243.47046, y: 158.21677}
+      - {x: -150.47295, y: 414.21683}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
